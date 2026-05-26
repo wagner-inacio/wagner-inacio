@@ -7,9 +7,12 @@
 
 <p>  
 Seja bem-vindo :) <br>
-Sou formado em Engenharia de Software, e ao longo da minha jornada em TI já atuei como desenvolvedor, cientista de dados e atualmente como engenheiro de dados e analytics.
-Sou bem curioso, adoro aprender coisas novas e automatizar tudo o que posso por meio da tecnologia.
-Este repositório está em constante construção, aqui compartilho o que venho estudando, testando e desenvolvendo. Sinta-se à vontade para explorar!
+  
+Sou formado em Engenharia de Software e atuo como Engenheiro de Dados & Analytics, com experiência em Engenharia de Software, Ciência de Dados e produtos de dados.
+Minha trajetória combina desenvolvimento de soluções, automação de processos, modelagem analítica e construção de pipelines voltados à geração de valor para áreas de negócio. Tenho interesse por projetos que conectam tecnologia, dados e tomada de decisão, com foco em qualidade, escalabilidade e impacto prático.
+Este espaço reúne projetos, estudos e experimentos que fazem parte da minha evolução técnica e profissional.
+
+Sinta-se à vontade para explorar.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
